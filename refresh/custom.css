@@ -1,0 +1,16 @@
+body {
+	background-color: #4397ff;
+}
+
+.logo {
+	padding-top: 50px;
+	margin: auto;
+	width: 60%;
+}
+
+.contactos {
+	text-align: center;
+	color: white;
+	font-family: 'Muli', sans-serif;
+	font-size: 1.8em;
+}

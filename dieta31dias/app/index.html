@@ -1,0 +1,163 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>A Dieta dos 31 Dias</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css(.) styles/vendor.css -->
+    <!-- bower:css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css(.tmp) styles/main.css -->
+    <link rel="stylesheet" href="styles/main.css">
+    <!-- endbuild -->
+</head>
+<body ng-app="dieta31diasApp">
+    <!--[if lte IE 8]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+    <div class="header">
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#js-navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#/">As Dietas</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="js-navbar-collapse">
+                    <ul class="nav navbar-nav">
+                    
+                        <li class="dropdown">
+                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">A Dieta dos 31 Dias<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a ng-href="#/intro">Introdução</a></li>
+                                <li><a href="#">Os Nutrientes</a></li>
+                                <li><a href="#">Índice Glicémico</a></li>
+                                <li><a href="#">Dieta Atkins</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">4 fases da minha dieta</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li class="dropdown-header">1ª Consulta</li>
+                                <li><a href="#/1consulta">1ª Consulta</a></li>
+                                <li><a href="#/balanca">A balança</a></li>
+                                <li><a href="#/fitametrica">A fita métrica</a></li>
+                                <li><a href="#/maquinafotografica">A máquina fotográfica</a></li>
+                                <li><a href="#/alimentospermitidos">Alimentos permitidos</a></li>
+                                <li><a href="#/alimentospermitidossemlimite">Alimentos permitidos sem limite de quantidade</a></li>
+                                <li><a href="#/alimentosproibidos">Alimentos proibidos</a></li>
+                                <li><a href="#/maximizarresultados">Para maximimar os resultados</a></li>
+                                <li><a href="#/12conselhos">12 conselhos úteis antes de iniciar a dieta</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li class="dropdown-header">2ª Consulta</li>
+                                <li><a href="#/alimentospermitidos2">Alimentos permitidos</a></li>
+                                <li><a href="#/alimentospermitidossemlimite2">Alimentos permitidos sem limite de quantidade</a></li>
+                                <li><a href="#/alimentosproibidos2">Alimentos proibidos</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li class="dropdown-header">3ª Consulta</li>
+                            </ul>                                       
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Receitas<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a ng-href="#/1">Dia 1</a></li>
+                                <li><a ng-href="#/2">Dia 2</a></li>
+                                <li><a ng-href="#/3">Dia 3</a></li>
+                                <li><a ng-href="#/4">Dia 4</a></li>
+                                <li><a ng-href="#/5">Dia 5</a></li>
+                                <li><a ng-href="#/6">Dia 6</a></li>
+                                <li><a ng-href="#/7">Dia 7</a></li>
+                                <li><a ng-href="#/8">Dia 8</a></li>
+                                <li><a ng-href="#/9">Dia 9</a></li>
+                                <li><a ng-href="#/10">Dia 10</a></li>
+                                <li><a ng-href="#/11">Dia 11</a></li>
+                                <li><a ng-href="#/12">Dia 12</a></li>
+                                <li><a ng-href="#/13">Dia 13</a></li>
+                                <li><a ng-href="#/14">Dia 14</a></li>
+                                <li><a ng-href="#/15">Dia 15</a></li>
+                                <li><a ng-href="#/16">Dia 16</a></li>
+                                <li><a ng-href="#/17">Dia 17</a></li>
+                                <li><a ng-href="#/18">Dia 18</a></li>
+                                <li><a ng-href="#/19">Dia 19</a></li>
+                                <li><a ng-href="#/20">Dia 20</a></li>
+                                <li><a ng-href="#/21">Dia 21</a></li>
+                                <li><a ng-href="#/22">Dia 22</a></li>
+                                <li><a ng-href="#/23">Dia 23</a></li>
+                                <li><a ng-href="#/24">Dia 24</a></li>
+                                <li><a ng-href="#/25">Dia 25</a></li>
+                                <li><a ng-href="#/26">Dia 26</a></li>
+                                <li><a ng-href="#/27">Dia 27</a></li>
+                                <li><a ng-href="#/28">Dia 28</a></li>    
+                                <li><a ng-href="#/29">Dia 29</a></li>    
+                                <li><a ng-href="#/30">Dia 30</a></li>    
+                                <li><a ng-href="#/31">Dia 31</a></li>    
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dieta Hospital<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#/dietahospital">Detalhes</a></li>
+                                <li><a href="#/horario">Horário</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div ng-view=""></div>
+    </div>
+
+    <div class="footer">
+        <div class="container">
+            <p><span class="glyphicon glyphicon-heart"></span> from Duarte</p>
+        </div>
+    </div>
+
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
+<script>
+    !function(A,n,g,u,l,a,r){A.GoogleAnalyticsObject=l,A[l]=A[l]||function(){
+        (A[l].q=A[l].q||[]).push(arguments)},A[l].l=+new Date,a=n.createElement(g),
+        r=n.getElementsByTagName(g)[0],a.src=u,r.parentNode.insertBefore(a,r)
+    }(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-XXXXX-X');
+    ga('send', 'pageview');
+</script>
+
+<!-- build:js(.) scripts/vendor.js -->
+<!-- bower:js -->
+<script src="bower_components/jquery/dist/jquery.js"></script>
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+<script src="bower_components/angular-animate/angular-animate.js"></script>
+<script src="bower_components/angular-cookies/angular-cookies.js"></script>
+<script src="bower_components/angular-resource/angular-resource.js"></script>
+<script src="bower_components/angular-route/angular-route.js"></script>
+<script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+<script src="bower_components/angular-touch/angular-touch.js"></script>
+<!-- endbower -->
+<!-- endbuild -->
+
+<!-- build:js({.tmp,app}) scripts/scripts.js -->
+<script src="scripts/app.js"></script>
+<script src="scripts/controllers/main.js"></script>
+<!--<script src="scripts/controllers/Dia1Ctrl.js"></script>-->
+<script src="scripts/services/ServerService.js"></script>
+<!-- endbuild -->
+</body>
+</html>

@@ -1,0 +1,144 @@
+{
+  "dias": [
+    {
+      "id": 1,
+      "dia": "Dia1",
+      "titulo": "Hoje é o primeiro dia da sua dieta. Está certamente motivado e com vontade de cumprir à risca o que lhe proponho. Deve, portanto, aproveitar ao máximo essa motivação, porque os quatro primeiros dias são os mais difíceis. Depois disso, o seu corpo já se terá habituado e será muito fácil chegar ao final da primeira fase, que é a mais rígida. Mas atenção que aproveitar ao máximo não significa ser demasiado exigente consigo próprio. O mais importante de tudo é que encare este grande passo que deu como uma fase de mudança e desfrute de tudo aquilo que esta dieta lhe permite. Como verá, todas as receitas que lhe sugiro resultam em pratos deliciosos que em nada ficam a dever àqueles que, por agora, não pode comer. Entregue-se, por isso, à sua confeção e faça da hora da refeição um momento de puro prazer.",
+      "conselho": "Não passe fome! Sempre que a sentir, faça um pequeno lanche com os alimentos permitidos sem limite de quantidade. Coma bem às refeições principais. Assim terá menos fomenos intervalos das mesmas. Lembre-se de que, no final da semana, existe o «Dia da Asneira» - aquele em que vai poder comer o que lhe apetecer. Poderá prescindir dele, para obter melhores resultados, mastenha em mente que isso obrigará a uma força de vontade adicional, e poderá criar alguma saturação. Se pensar nele como uma meta, vai ver que a semana passa muito mais depressa. Durante os 6 dias da dieta, tente não frequentar restaurantes que para si sejam uma tentação. Se adora pizas, por exemplo,evite as pizarias. É verdade que numa pizaria há sempre saladas e bifes, mas vai ser muito difícil resistir àquilo de que realmente gosta nesse espaço. O próprio cheiro será um apelo ao consumo dos alimentos que agora tem de evitar.",
+      "pqalm": [
+        {
+          "desc": "1 copo de leite com café"
+        },
+        {
+          "desc": "2 copo de leite com café"
+        }
+      ],
+      "meiomanha": [
+        {
+          "desc": "1 bolinha de queijo flamengo"
+        }
+      ],
+      "almocotitulo": "Rolinho de peru com fiambre e mozzarelldudas",
+      "almocoing": [
+        {
+          "ing": "Orégãos"
+        },
+        {
+          "ing": "2 bifes pequenos e fininhos de peru"
+        },
+        {
+          "ing": "2 fatias de fiambre de frango"
+        },
+        {
+          "ing": "2 fatias de queijo mozzarella light"
+        },
+        {
+          "ing": "2 tomates descascados e cortados ao bocadinhos"
+        },
+        {
+          "ing": "1 cebola pequena picada"
+        },
+        {
+          "ing": "Salsa picada"
+        },
+        {
+          "ing": "Sal e pimenta"
+        },
+        {
+          "ing": "Um fio de azeite"
+        },
+        {
+          "ing": "Palitos"
+        }
+      ],
+      "almocopreparacao": "Tempere os bifes com sal e pimenta. Coloque uma fatia de fiambre e depois uma fatia de queijo em cima de cada bife. Polvilhe com os orégãos e enrole. Depois coloque o palito para os manter enrolados. Ponha o fiozinho de azeite numa frigideira e, quando este estiver quente, aloure os bifinhos de todos os lados. Retire e reserve. Ponha a cebola na frigideira e vá mexendo até ficar transparente. Junte o tomate e vá mexendo. Adicione a salsa picada e os bifinhos enrolados. Tape e deixe em lume brando até os bifinhos estarem tenros. Acompanhe com uma salada deal face bem temperada, e beba água ou uma cola light.",
+      "durantetarde": [
+        {
+          "desc": "1 gelatina"
+        },
+        {
+          "desc": "1 ovo cozido"
+        }
+      ],
+      "jantartitulo": "Gambas com gengibre",
+      "jantaring": [
+        {
+          "ing": "Gambas"
+        },
+        {
+          "ing": "Azeite"
+        },
+        {
+          "ing": "2 dentes de alho"
+        },
+        {
+          "ing": "Gengibre ralado (do tamanho de um dente de alho grande)"
+        },
+        {
+          "ing": "50 g de cogumelos"
+        },
+        {
+          "ing": "1 colher de sobremesa de molho de soja"
+        },
+        {
+          "ing": "Piripiri seco (para quem gosta de picante)"
+        }
+      ],
+      "jantarpreparacao": "Numa frigideira ou wook, aqueça o azeite. Quando estiver quente, junte o alho e a gengibre, o molho de soja e o piripiri. Mexa durante meio minuto e depois junte os cogumelos. Após alguns minutos, junte as gambas e misture até ficarem cor-de-rosa."
+    },
+    {
+      "id": 2,
+      "desc": "Se é guloso, é normal que, entre o segundo e o terceiro dias dedieta, sinta alguma falta dos seus doces habituais. O seu corpoestá habituado a eles, e poderá até sentir que, sem esse açúcar,fica sem energia, triste ou esquecido. Mas atenção que isto éuma ilusão.O seu corpo não precisa de rebuçados e pastéis de nata parafuncionar. Está viciado, isso sim, nesse tipo de alimentos. Mas,felizmente, este é daqueles vícios que se combatem rápida eeficazmente. A partir do dia 4 da dieta, já nem se lembrará deque comia um doce por dia, e verá que encontra essa mesmaenergia, alegria e memória noutros alimentos mais saudáveis.",
+      "conselho": "Se sentir mesmo falta de um doce, seja para se concentrar ou para se «mimar», opte por uma pastilha ou rebuçado semaçúcar. São uma boa forma de sossegar o seu desejo e deentreter o seu estômago até à refeição seguinte.",
+      "pqalm": [
+        {
+          "desc": "1 copo de leite com café"
+        }
+      ],
+      "meiomanha": [
+        {
+          "desc1": "2 salsichas de peru"
+        }
+      ],
+      "almoco": [
+        {
+          "tituloalmoco": "Wrap de alface",
+          "ingredientes": [
+            {
+              "ing1": "200 g de carne picada de vaca",
+              "ing2": "1 colher de sopa de molho de soja",
+              "ing3": "Gengibre fresco (do tamanho de um dente de alho) picado",
+              "ing4": "1 dente de alho picado",
+              "ing5": "Ervas aromáticas finas",
+              "ing6": "Um fiozinho de azeite",
+              "ing7": "1 cebola às rodelas finas",
+              "ing8": "1 pimento vermelho pequeno sem sementes e cortado aos cubos",
+              "ing9": "4 folhas de alface grandes lavadas e bem secas",
+              "ing10": "Salsa picada"
+            }
+          ],
+          "preparacaoalmoco": "Corte a carne em ripas e ponha numa tigela com o molho desoja, o gengibre, o alho e as ervas aromáticas. Misture e reserve,tapado. Ponha um fiozinho de azeite numa frigideira e, quandoestiver quente, junte as cebolas e o pimento. Misture durantecerca de 1 minuto. Junte a carne e mexa até estar pronta.Tempere com sal e pimenta e polvilhe com a salsa. Ponha um bocadinho em cada folha de alface e embrulhe."
+        }
+      ],
+      "durantetarde": [
+        {
+          "desc1": "1 iogurte magro",
+          "desc2": "1cenoura crua enrolada numa fatia de fiambre"
+        }
+      ],
+      "jantar": [
+        {
+          "titulojantar": "Atum com maionese e queijo",
+          "ingredientes": [
+            {
+              "ing1": "2 latas de atum em água",
+              "ing2": "Maionese caseira",
+              "ing3": "Queijo ralado magro"
+            }
+          ],
+          "preparacaojantar": "Misture o atum com um pouco de maionese (feita por si, comazeite) e tempere com sal e pimenta. Numa frigideira, não muito grande, ponha um fiozinho deazeite. Quando estiver quente, espalhe o queijo pela base todada frigideira. Assim que começar a derreter, espalhe o atum por cima e deixe-o lá até o queijo ficar dourado dos lados.Sirva com brócolos cozidos.Beba água ou uma cola light."
+        }
+      ]
+    }
+  ]
+}

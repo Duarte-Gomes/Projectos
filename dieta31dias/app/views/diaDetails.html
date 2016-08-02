@@ -1,0 +1,39 @@
+<div class="row top">
+	<h3>{{diaDetails.dia}}</h3>
+	<p>{{diaDetails.titulo}}</p>
+</div>
+<div class="row">
+	<h3>Conselho da sua nutricionista</h3>
+	<p>{{diaDetails.conselho}}</p>
+</div>
+<div class="row">
+	<h4>RECEITAS PARA O SEU DIA</h4>
+		<strong>Pequeno-almoço</strong>
+			<ul ng-repeat="pqalm in diaDetails.pqalm">
+				<li>{{pqalm.desc}}</li>
+			</ul>
+		<strong>A meio da manhã</strong>
+			<ul ng-repeat="meiomanha in diaDetails.meiomanha">
+				<li>{{meiomanha.desc}}</li>
+			</ul>
+		<strong>Almoço</strong>
+			<p>{{diaDetails.almocotitulo}}<p>
+		 	<i>Ingredientes</i>
+		 	<ul ng-repeat="ing in diaDetails.almocoing">
+		 		<li>{{ing.ing}}</li>
+			</ul>
+			<i>Preparação</i>
+			<p>{{diaDetails.almocopreparacao}}</p>
+		<strong>Durante a tarde</strong>
+			<ul ng-repeat="tarde in diaDetails.durantetarde">
+				<li>{{tarde.desc}}</li>
+			</ul>
+		<strong>Jantar</strong>
+			<p>{{diaDetails.jantartitulo}}</p>
+			<i>Ingredientes</i>
+			<ul ng-repeat="ing in diaDetails.jantaring">
+				<li>{{ing.ing}}</li>
+			</ul>
+			<i>Preparação</i>
+			<p>{{diaDetails.jantarpreparacao}}</p>
+</div>
