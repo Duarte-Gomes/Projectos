@@ -1,2 +1,2 @@
-# Projectos
-Projects, ideas, brainstorms and something that want to see the sun!
+# Projects
+Projects, ideas, brainstorms and something else that wants to see the sunshine!!!!
